@@ -1,5 +1,5 @@
 streamlit
+tensorflow
 numpy
-scikit-learn
-matplotlib
-pillow
+gdown
+plotly
